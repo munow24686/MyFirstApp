@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My FirstApp</string>
+
+    <string name="txtTitle">ป้ายจราจร</string>
+    <string name="moreInfo">More Info.</string>
+    <string name="aboutMe">About Me</string>
+
+    <string name="my_name"><b>ผู้จัดทำ : </b>กฤษนันท์ เจริญชาติ</string>
+    <string name="my_workplace"><b>ศึกษาอยู่ที่ : </b>หลักสูตรวิทยาการคอมพิวเตอร์ มหาวิทยาลัยสวนดุสิต</string>
+    <string name="my_tel"><b>ติดต่อ : </b>085-3348882</string>
+    <string name="my_email"><b>e-Mail : </b>kurumi.erika.cure.marine@gmail.com</string>
+    <string name="my_facebook"><b>Facebook : </b>https://www.facebook.com/munow.ss</string>
+
+
+</resources>
